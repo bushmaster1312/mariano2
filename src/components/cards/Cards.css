@@ -1,0 +1,15 @@
+.container{
+    padding:30px;
+    background-color: rgb(235, 219, 0);
+    
+}
+
+.col{
+    
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 20px;
+}
+.btn{
+    font-size: 1.3rem;
+}
