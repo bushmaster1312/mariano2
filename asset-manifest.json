@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mariano2/static/css/main.8a601cc2.css",
+    "main.js": "/mariano2/static/js/main.06f0252d.js",
+    "static/js/787.fc9eb143.chunk.js": "/mariano2/static/js/787.fc9eb143.chunk.js",
+    "static/media/carrousel-3.jpg": "/mariano2/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "index.html": "/mariano2/index.html",
+    "main.8a601cc2.css.map": "/mariano2/static/css/main.8a601cc2.css.map",
+    "main.06f0252d.js.map": "/mariano2/static/js/main.06f0252d.js.map",
+    "787.fc9eb143.chunk.js.map": "/mariano2/static/js/787.fc9eb143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a601cc2.css",
+    "static/js/main.06f0252d.js"
+  ]
+}
