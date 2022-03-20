@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mariano2/static/css/main.e159180e.css",
-    "main.js": "/mariano2/static/js/main.3acf4f95.js",
+    "main.css": "/mariano2/static/css/main.b59ba20a.css",
+    "main.js": "/mariano2/static/js/main.29af6a0d.js",
     "static/js/787.fc9eb143.chunk.js": "/mariano2/static/js/787.fc9eb143.chunk.js",
     "static/media/video1.mp4": "/mariano2/static/media/video1.04bea70d46daf490c68d.mp4",
     "static/media/carrousel-3.jpg": "/mariano2/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
@@ -11,12 +11,12 @@
     "static/media/homero.png": "/mariano2/static/media/homero.d4a58a90911d2ee8a4a9.png",
     "static/media/error.gif": "/mariano2/static/media/error.bb6ce7a708dd6749b441.gif",
     "index.html": "/mariano2/index.html",
-    "main.e159180e.css.map": "/mariano2/static/css/main.e159180e.css.map",
-    "main.3acf4f95.js.map": "/mariano2/static/js/main.3acf4f95.js.map",
+    "main.b59ba20a.css.map": "/mariano2/static/css/main.b59ba20a.css.map",
+    "main.29af6a0d.js.map": "/mariano2/static/js/main.29af6a0d.js.map",
     "787.fc9eb143.chunk.js.map": "/mariano2/static/js/787.fc9eb143.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e159180e.css",
-    "static/js/main.3acf4f95.js"
+    "static/css/main.b59ba20a.css",
+    "static/js/main.29af6a0d.js"
   ]
 }
