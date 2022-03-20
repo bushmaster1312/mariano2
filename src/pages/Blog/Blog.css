@@ -1,0 +1,48 @@
+@font-face {
+    font-family: simps;
+    src: url(../../assets/fuente/akbar.ttf);
+}
+.contorno{
+    background-color: rgb(222, 246, 7);
+    width: 100%;
+
+}
+
+.container{
+    background-color: #fff;
+}
+
+.banner{
+    width: 100%;
+}
+.tituloBlog{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.titulo{
+    font-family: simps;
+    font-size: 25px;
+    
+    
+}
+
+.titulo p{
+    height: 60px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.description{
+    margin-top: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
+}

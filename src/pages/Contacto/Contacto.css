@@ -1,0 +1,31 @@
+@font-face {
+    font-family: simps;
+    src: url(../../assets/fuente/akbar.ttf);
+}
+
+.contacto{
+    background: url(../../assets/img/rosquilla.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contactos{
+    width: 800px;
+    opacity: 95%;
+    font-family: simps;
+    font-size: 40px;
+}
+
+.buttom{
+    width: 200px;
+    background-color: rgb(59, 59, 195);
+    color: azure;
+    border-radius: 15px;
+    border: none;
+    font-family: simps;
+    
+}

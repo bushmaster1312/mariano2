@@ -2,4 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 100%;
+ }
+
+ .carousel img {
+     width: 100%;
  }

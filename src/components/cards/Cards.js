@@ -6,7 +6,7 @@ import "../cards/Cards.css"
 
 const Cards = () => {
     return (
-        <div className="container">
+        <div className="container cardss">
             <div className="row">
                 <div className="col Name">
                     <div className="card" >
