@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/mariano2/static/css/main.8a601cc2.css",
-    "main.js": "/mariano2/static/js/main.06f0252d.js",
+    "main.css": "/mariano2/static/css/main.e159180e.css",
+    "main.js": "/mariano2/static/js/main.3acf4f95.js",
     "static/js/787.fc9eb143.chunk.js": "/mariano2/static/js/787.fc9eb143.chunk.js",
+    "static/media/video1.mp4": "/mariano2/static/media/video1.04bea70d46daf490c68d.mp4",
     "static/media/carrousel-3.jpg": "/mariano2/static/media/carrousel-3.424560c4e6ad8e7d754f.jpg",
+    "static/media/banner_simpsons.jpg": "/mariano2/static/media/banner_simpsons.eb0e26f1b94a82feb1f2.jpg",
+    "static/media/akbar.ttf": "/mariano2/static/media/akbar.158ea4fd0d9d4fe20e0e.ttf",
+    "static/media/rosquilla.jpg": "/mariano2/static/media/rosquilla.c533f098c8d00688a52c.jpg",
+    "static/media/homero.png": "/mariano2/static/media/homero.d4a58a90911d2ee8a4a9.png",
+    "static/media/error.gif": "/mariano2/static/media/error.bb6ce7a708dd6749b441.gif",
     "index.html": "/mariano2/index.html",
-    "main.8a601cc2.css.map": "/mariano2/static/css/main.8a601cc2.css.map",
-    "main.06f0252d.js.map": "/mariano2/static/js/main.06f0252d.js.map",
+    "main.e159180e.css.map": "/mariano2/static/css/main.e159180e.css.map",
+    "main.3acf4f95.js.map": "/mariano2/static/js/main.3acf4f95.js.map",
     "787.fc9eb143.chunk.js.map": "/mariano2/static/js/787.fc9eb143.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a601cc2.css",
-    "static/js/main.06f0252d.js"
+    "static/css/main.e159180e.css",
+    "static/js/main.3acf4f95.js"
   ]
 }
